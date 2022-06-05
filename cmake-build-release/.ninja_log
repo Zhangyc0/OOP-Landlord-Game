@@ -1,0 +1,8 @@
+# ninja log v5
+4	84	0	CMakeFiles/untitled_autogen	f186810787611af5
+4	84	0	F:/CLionProjects/untitled/cmake-build-release/untitled_autogen/mocs_compilation.cpp	f186810787611af5
+143	1106	6757177192923782	CMakeFiles/untitled.dir/main.cpp.obj	6b3875e9c12fac4c
+4	84	0	untitled_autogen/mocs_compilation.cpp	f186810787611af5
+4	84	0	F:/CLionProjects/untitled/cmake-build-release/CMakeFiles/untitled_autogen	f186810787611af5
+134	209	6757177183949561	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	2dbefae56f4454b3
+1107	1548	6757177194110615	untitled.exe	5172077f6fc2f33
